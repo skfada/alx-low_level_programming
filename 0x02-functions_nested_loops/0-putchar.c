@@ -2,9 +2,9 @@
 
 /**
  * main - this is the main funtion
- * the main receives no parameter
+ * parameter : the main receives no parameter
  * the main function will print "_putchar\n"
- * and will return Zero value
+ * return : and will return Zero value
  */
 int main(void)
 {
