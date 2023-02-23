@@ -13,10 +13,10 @@ printf("Infinite loop incoming :(\n");
 
 i = 0;
 
-while (i < 10)
-{
-putchar(i);
-} /* this  line of the code is suppose to state the increment  or decrement of the variable*/
+/*while (i < 10)*/
+/*{*/
+/*putchar(i);*/
+/*}*/
 
 printf("Infinite loop avoided! \\o/\n");
 
