@@ -1,13 +1,13 @@
 #include "main.h"
 /**
- * swap_int - this funtion receives two int pointer parameter and swaps their values.
+ * swap_int - this funtion receives two int pointer parameter for swap
  * @a: first input integer value.
  * @b: second input integer value.
  * Return: no return.
  */
 void swap_int(int *a, int *b)
 {
-int c = *a;  
+int c = *a;
 *a = *b;
 *b = c;
 }
