@@ -1,9 +1,5 @@
 #include <stdio.h>
-/**
- * main - print ot magic numbers
- *
- * Return: 0
- */
+
 int main(void)
 {
 int n;
